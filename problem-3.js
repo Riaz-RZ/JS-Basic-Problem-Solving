@@ -20,4 +20,4 @@ function factorialOfNumber(number) {
     return result;
 
 }
-console.log('Factorial', factorialOfNumber(10));
+console.log('Factorial', factorialOfNumber(5));
